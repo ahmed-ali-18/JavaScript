@@ -11,7 +11,7 @@ const fourthResult = 0 + 8;
 console.log(`0 + 8 = ${fourthResult}`);
 
 const fifthResult = 10 * 2;
-console.log(`10 * 2 = ${fifthResult}`);
+console.log(`10 * 2 = ${fifthResult}`); 
 
 const sixthResult = 0 + 22;
 console.log(`0 + 22 = ${sixthResult}`);
